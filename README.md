@@ -9,6 +9,7 @@ Thingiverse: https://www.thingiverse.com/thing:4598978/edit
 
 Bill of Materials:
 
+
 1x Enclosure (3d Printed)
 1x Front Plate (3d Printed)
 5x Click encoders (https://www.amazon.com/gp/product/B06XQTHDRR/)
