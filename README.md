@@ -5,7 +5,7 @@ Youtube Video: https://youtu.be/pkEw7x2GMIA
 
 Original work: https://github.com/omriharel/deej/blob/master/LICENSE
 
-Thingiverse: https://www.thingiverse.com/thing:4598978/edit
+Thingiverse: https://www.thingiverse.com/thing:4598978/
 
 
 Bill of Materials:
